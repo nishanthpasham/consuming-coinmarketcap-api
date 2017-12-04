@@ -1,0 +1,1 @@
+The project will consume the coinmarketcap.com's REST API's and saves the details to a Postgresql DB.
